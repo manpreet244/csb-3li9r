@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manpreet244.github.io/csb-3li9r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://manpreet244.github.io/csb-3li9r/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://manpreet244.github.io/csb-3li9r/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://manpreet244.github.io/csb-3li9r/static/js/runtime-main.f9ba6c1f.js",
+    "runtime-main.js.map": "https://manpreet244.github.io/csb-3li9r/static/js/runtime-main.f9ba6c1f.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://manpreet244.github.io/csb-3li9r/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://manpreet244.github.io/csb-3li9r/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://manpreet244.github.io/csb-3li9r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://manpreet244.github.io/csb-3li9r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://manpreet244.github.io/csb-3li9r/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ba6c1f.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
